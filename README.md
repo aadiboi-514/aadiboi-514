@@ -9,11 +9,11 @@
 
 ## 💫 About Me:
 <p align="left">
-🔭 MERN/PERN developer passionate about building impactful apps and creating smooth user experiences.<br>
-🚧 Right now I’m working on my own projects, currently learning GSAP, and always up for collabs in full-stack development!<br>
-🌱 Final year CSE student at KIIT, currently looking for opportunities!<br>
-💬 Ask me about MERN/PERN Stack, building scalable web apps, and frontend animations.<br>
-⚡ Fun fact: I like going out🧳, bingeing on anime, and creating cool things from scratch..<br>
+🔭 Data Analyst passionate about turning raw data into meaningful insights and driving data-informed decisions.<br>
+🚧 Currently working on personal analytics projects, exploring advanced SQL queries, and building impactful dashboards.<br>
+🌱 Final year CSE student at KIIT, actively seeking opportunities in data analytics and business intelligence.<br>
+💬 Ask me about data visualization, statistical analysis, SQL, Python (Pandas/NumPy), and dashboarding tools like Power BI or Excel.<br>
+⚡ Fun fact:I like going out🧳, bingeing on anime, and bingeing on crime & mystery documentaries.<br>
 </p>
 
 <!-- 💫 About Me section ends -->
